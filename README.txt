@@ -1,4 +1,4 @@
-Directory structure
+irectory structure
 	asm_testprog		Assembly-only test program (produces asm_testprog.elf). Modify as needed to test your simulator, but will not be graded.
 	c_testprog			C+assembly test program (produces c_testprog.elf). Modify as needed to test your simulator, but will not be graded
 	sim					The simulator itself, you will need to fill in the missing parts.
